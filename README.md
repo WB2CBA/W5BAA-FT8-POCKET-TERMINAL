@@ -5,10 +5,12 @@ FT8 POCKET is designed by W5BAA Charles (Charley) Hill.
 
 FT8 Pcket uses TEENSY Microcontroller bioards and 3.5" ADafruit TFT Touchscreen Display.
 There are two versions: 
+
 1- For Teensy 3.6
 2-For Teensy 4.1
 
 Here are some highlights of FT8 POCKET Terminal:
+
 • Small Size, 3.5” X 2.75” X 1.125”
 • Mono Audio Input and Output for Transceiver Interface
 • PTT Output To Control Transceiver
