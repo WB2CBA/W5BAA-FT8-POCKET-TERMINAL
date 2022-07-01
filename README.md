@@ -3,12 +3,14 @@ FT 8 POCKET - Palm size FT8 Interface Terminal
 FT8 POCKET is a palm size stand alone FT8 Interface Terminal for Portable FT8 operations without the need for a PC.
 FT8 POCKET is designed by W5BAA Charles (Charley) Hill.
 
-FT8 Pcket uses TEENSY Microcontroller bioards and 3.5" ADafruit TFT Touchscreen Display.
-There are two versions: 
+FT8 Pcket uses TEENSY Microcontroller boards and 3.5" Adafruit TFT Touchscreen Display.
+There are two TEENSY versions: 
 
-1- For Teensy 3.6
+1- For TEENSY 3.6
 
-2-For Teensy 4.1
+2- For TEENSY 4.1
+
+Folders contain files for each version.
 
 Here are some highlights of FT8 POCKET Terminal:
 
