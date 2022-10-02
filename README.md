@@ -7,6 +7,7 @@ FT8 POCKET is designed by W5BAA Charles (Charley) Hill.
 FT8 POCKET has 3 different design versions. 
 
 1- STM32F746 DISCO version uses STM32F746 Discovery Evalutaion Board which has a Touch Screen LCD and audio codec ICs on board as a complete system. 
+
 2- FT8 POCKET TEENSY Versions uses TEENSY microcontroller boards.
 
 FT8 Pocket TEENSY uses TEENSY Microcontroller boards and 3.5" Adafruit TFT Touchscreen Display.
